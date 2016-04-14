@@ -10,5 +10,5 @@ package ccc;
  * @author Khanh
  */
 public class ccc {
-    
+    int g = 10;
 }
